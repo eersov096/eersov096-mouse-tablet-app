@@ -33,3 +33,4 @@
 ## GitHub Actions
 
 Workflow лежит в `.github/workflows/android.yml`.
+# trigger
