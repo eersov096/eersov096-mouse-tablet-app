@@ -1,0 +1,1 @@
+-dontwarn rikka.shizuku.**
